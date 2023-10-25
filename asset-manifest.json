@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hw-7-Figma/static/css/main.12ca0934.css",
+    "main.js": "/Hw-7-Figma/static/js/main.027f8d7a.js",
+    "static/media/googleLogo.svg": "/Hw-7-Figma/static/media/googleLogo.f60383e1490e3f87ac28bd7ab8e52d38.svg",
+    "static/media/BackroundImage.png": "/Hw-7-Figma/static/media/BackroundImage.674e7f06a48e0f4e0e89.png",
+    "index.html": "/Hw-7-Figma/index.html",
+    "main.12ca0934.css.map": "/Hw-7-Figma/static/css/main.12ca0934.css.map",
+    "main.027f8d7a.js.map": "/Hw-7-Figma/static/js/main.027f8d7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ca0934.css",
+    "static/js/main.027f8d7a.js"
+  ]
+}
